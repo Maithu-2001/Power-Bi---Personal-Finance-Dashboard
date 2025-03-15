@@ -18,4 +18,5 @@ The goal of this project is to **monitor income and expenses**, visualize spendi
 - Excel for data management
 - Dashboard Interaction - <a href="(https://github.com/Maithu-2001/Power-Bi---Personal-Finance-Dashboard/tree/main)">,Dashboard,<a/>
 ## Dashboard
-- <a href="https://github.com/Maithu-2001/Power-Bi---Personal-Finance-Dashboard/blob/main/Screenshot.jpeg">,Dashboard,<a/>
+![Screenshot](https://github.com/user-attachments/assets/f90744df-c3db-4881-84ae-967c1e1923a4)
+
