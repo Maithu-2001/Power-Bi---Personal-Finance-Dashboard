@@ -14,11 +14,13 @@ The goal of this project is to **monitor income and expenses**, visualize spendi
 - Expense vs Income trend line  
 - Real-time Net Income calculation  
 ## 🔧 Tools & Technologies  
-- Power BI  
+- Power BI  ## Dashboard
 - Excel for data management
 - Dashboard Interaction - <a href="(https://github.com/Maithu-2001/Power-Bi---Personal-Finance-Dashboard/tree/main)">,Dashboard,<a/>
 ## Dashboard
-![Screenshot](https://github.com/user-attachments/assets/f90744df-c3db-4881-84ae-967c1e1923a4)
+![Screenshot](https://github.com/user-attachments/assets/f90744df-c3db-4881-84ae-967c1e1923a4
+## Dashboard File
+
 ## 🔎 Conclusion:
 
 This **Personal Finance Tracker Dashboard** built with **Power BI** provides a **comprehensive analysis of income and expenses**, helping to **identify spending patterns and manage finances efficiently**. By visualizing **top spending categories**, **payment methods**, and **net income**, this dashboard enables **better financial decision-making** and **improved budget management**.  
